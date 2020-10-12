@@ -12,7 +12,7 @@
 </head>
 <body>
 <div class="container">
-step1 step2
+step1 step2 step3
 </div>
 </body>
 </html>
